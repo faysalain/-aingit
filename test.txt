@@ -12,7 +12,9 @@
 
 
 <form action="">
-
+  <input type="name" placeholder="your name">
+  <input type="name" placeholder="passwerd">
+  <button style="background-color:green;">login</button>
 </form>
 
 
